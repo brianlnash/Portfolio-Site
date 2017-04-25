@@ -1,20 +1,24 @@
 body {
-    font-family: 'Barrio', cursive;
-    color:#747784;
+    font-family: "Barrio", cursive;
+    color: #747784;
     font-weight: 300
 }
 .text-muted {
-    color:#BCBBBB;
+    color:#bcbbbb;
 }
 
-.text-thick{
+.text-thick {
     font-weight: 800
 }
 
-.title-super{
+.title-super {
     font-size: 60px;
 }
 
-.title-logo{
+.title-logo {
     margin-top: 20px;
+}
+
+.hr-rule {
+    border-bottom: 1px solid black;
 }
